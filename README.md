@@ -7,9 +7,9 @@ Connecting the schema to any project is the way to connect the normal image
 
 <body>
   <!-- Adding to the page -->
-  <img src="stooller-diagram__how-it-works.svg">
+  <img src="dist/stooller-diagram__how-it-works.svg">
   <!-- If, something went wrong in the first case -->
-  <object data="stooller-diagram__how-it-works.svg" type="image/svg+xml"></object>
+  <object data="dist/stooller-diagram__how-it-works.svg" type="image/svg+xml"></object>
 </body>
 
 </html>
