@@ -2,15 +2,14 @@
     <title>stooller How it works!</title>
     <desc>Created by WEBDELO Studio</desc>
     <style>
-    @media screen and (-webkit-min-device-pixel-ratio:0) {
         #JIRA-to-aws-connection-line,
         #JIRA-to-GitHub-connection-line,
         path[id*="logo"] {
             opacity: 0;
             stroke: rgba(255, 255, 255, 1);
             stroke-width: 1;
-            stroke-dasharray: 50%;
-            stroke-dashoffset: 50%;
+            stroke-dasharray: 400;
+            stroke-dashoffset: 400;
             animation: draw 4.8s forwards;
         }
 
@@ -230,7 +229,6 @@
                 stroke-dashoffset: 0;
             }
         }
-    }
     </style>
     <g id="Canvas" transform="translate(6 -139)">
         <g id="stooller__how-it-works">
