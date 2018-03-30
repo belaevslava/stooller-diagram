@@ -14,3 +14,5 @@ Connecting the schema to any project is the way to connect the normal image
 
 </html>
 ```
+
+(https://belaevslava.github.io/stooller-diagram__how-it-works/dist/stooller-diagram__how-it-works.svg)
