@@ -1,0 +1,35 @@
+{
+  "name": "stooller-include",
+  "version": "1.0.0",
+  "description": "Animated SVG image «Stooller Include»",
+  "previews": {
+    "directory": "previews",
+    "images": [
+      {
+        "path": "index.png",
+        "title": "Stooller Include"
+      }
+    ]
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belaevslava/stooller-include.git"
+  },
+  "keywords": [
+    "SVG",
+    "Animation"
+  ],
+  "author": "slav@belaev.pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belaevslava/stooller-include/issues"
+  },
+  "homepage": "https://github.com/belaevslava/stooller-include#readme"
+}
