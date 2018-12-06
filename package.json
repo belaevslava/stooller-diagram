@@ -4,6 +4,9 @@
   "description": "Animated SVG image «Stooller Include»",
   "previews": {
     "directory": "previews",
+    "main": {
+      "path": "/thumbs/index.png",
+    },
     "images": [
       {
         "path": "index.png",
