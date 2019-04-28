@@ -5,7 +5,7 @@
   "previews": {
     "directory": "previews",
     "main": {
-      "path": "/thumbs/index.png"
+      "path": "index.png"
     },
     "images": [
       {
